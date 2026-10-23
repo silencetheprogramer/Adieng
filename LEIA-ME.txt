@@ -1,0 +1,26 @@
+ADIENG — SITE ESTÁTICO (HTML, CSS E JAVASCRIPT)
+
+COMO ABRIR NO COMPUTADOR
+1. Extraia a pasta adieng-site para um local do seu computador.
+2. Abra a pasta e faça duplo clique em index.html.
+3. O site abre no navegador. Não precisa de WordPress, base de dados ou XAMPP.
+
+COMO USAR COM XAMPP (OPCIONAL)
+1. Copie a pasta adieng-site para C:\xampp\htdocs\
+2. Inicie o Apache no XAMPP.
+3. Abra http://localhost/adieng-site/
+   Se renomear a pasta, use esse nome no endereço.
+
+FICHEIROS
+- index.html: conteúdo e estrutura do site
+- assets/css/style.css: design, cores e adaptação a telemóveis
+- assets/js/main.js: menu, filtros da galeria, visualização de fotografias e formulário
+- assets/images/: logótipo e fotografias extraídas do portfólio fornecido
+
+NOTAS IMPORTANTES
+- O formulário abre o programa de e-mail do visitante; não armazena nem envia dados por servidor.
+- O endereço geral@adieng.net e os telefones foram retirados do portfólio fornecido.
+- As fotografias dos projetos foram extraídas do portfólio fornecido pela empresa.
+- A fonte do Google Fonts requer internet; se não houver ligação, o site usa fontes de sistema alternativas.
+- O site estático não tem painel de administração. Alterações de texto e imagens são feitas nos ficheiros HTML e assets.
+- Antes de publicar, confirme os dados de contacto, direitos de utilização das imagens e conteúdo de cada projeto.
